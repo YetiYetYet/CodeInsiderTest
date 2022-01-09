@@ -1,0 +1,119 @@
+﻿@{
+    ViewBag.Title = "Test Candidat";
+}
+
+<div style="width:500px; height:300px; overflow:auto; float: left; margin-right: 50px; margin-bottom: 50px; margin-top: 50px">
+    <h2 style="text-decoration: underline">First Exercice (Regex) :</h2>
+    <br>
+    <h4>Le but de cet exercice est de remplacer chaque 'j', 'ch' ou 's' par un 'z' à l'aide d'une regex.<br />
+    <br />
+    exemple: j'ai un cheveu sur la langue
+    <br />
+    <br />
+    resultat: 
+    @ViewBag.ResultExo1.ToString()
+    </h4>
+</div>
+
+<div style="width:500px; height:300px; overflow:auto; float: left; margin-right: 50px; margin-bottom: 50px; margin-top: 50px">
+    <h2 style="text-decoration: underline">Second Exercice (Linq) :</h2>
+    <br>
+    <h4>
+        Le but de cet exercice est de ne selectionner que les noms commençant par B, les mettre en majuscule et ensuite les trier par ordre alphabetique.<br />
+        <br />
+    </h4>
+        <div style="width:230px; overflow:auto; margin-left:10px; float: left;">
+            Noms:<br />
+            @{
+                string[] Names = { "Billy", "Bob", "Benjamin", "Stephane" };
+                foreach (string Name in Names)
+                {
+                    <li>@Name</li>
+                }
+
+            }
+        </div>
+        <div style="width:230px; overflow:auto; float:left;">
+            resultat:
+            <br />
+            @{
+                IEnumerable<string> result = Names.Where(name => name[0] == 'B').OrderBy(name => name);
+                    
+            
+                foreach (string Name in result)
+                {
+                    <li>@Name</li>
+                }
+            }
+        </div>
+        <br />
+
+</div>
+
+<div style="width:500px; height:300px; overflow:auto; float: left; margin-bottom: 50px; margin-top: 50px">
+    <h2 style="text-decoration: underline">Troisieme Exercice (Linq) :</h2>
+    <br>
+    <h4>
+        Le but de cet exercice est d'afficher tous les multiples de 3 jusqu'à l'infini. (seuls les 8 premiers seront affiches)<br />
+        <br />
+    </h4>
+    <div style="width:230px; overflow:auto; margin-left:10px; float: left;">
+        @functions{
+            IEnumerable<int> multiples = Enumerable.Range(1, int.MaxValue).Where(x => x % 3 == 0);
+        }
+        @{
+            foreach (int num in multiples.Take(8))
+            {
+                @num<text>,</text>
+            }
+        }
+    </div>
+</div>
+
+<div style="width:500px; height:300px; overflow:auto; float: left; margin-right: 50px; margin-bottom: 50px;">
+    <h2 style="text-decoration: underline">Quatrieme Exercice (MVC) :</h2>
+    <br>
+    <h4>
+        Lorsqu'on accède à cet url : <a href="http://localhost:3004/PinkPower">http://localhost:3004/PinkPower</a>
+        <br />
+        <br/>
+        On obtient une erreur. Le but de cet exercice est donc de créer la page manquante. Il faudra que cette page aie un fond entièrement rose.
+        C'est la seule chose demandée pour cet exercice. Il y a deja "ViewBag.BackgroundColor" de configuré dans le layout
+        <br />
+    </h4>
+</div>
+
+<div style="width:500px; height:400px; overflow:auto; float: left; margin-right: 50px; margin-bottom: 50px;">
+    <h2 style="text-decoration: underline">Cinquieme Exercice (MVC) :</h2>
+    <br>
+    <h4>
+        Lorsqu'on appelle une fonction de la classe AvengersController (ex: <a href="http://localhost:3004/Avengers/Thor">Avengers/Thor</a>)
+        <br />
+        On a le résultat suivant : "Je me suis pris un marteau sur la tête".
+        L'idée est que lorsqu'une méthode sincère est appelée, la méthode donne son nom puis décrit son action, tandis qu'une méthode menteur donne le nom d'une
+        méthode sincère puis décrit son action: 
+    </h4>
+    <h5>
+        <br />
+        Methode sincère :
+        <br />
+        Je m'appelle Thor (--> Sincère)
+        <br />
+        Je me suis pris un marteau sur la tête
+        <br />
+        <br />
+        Methode menteur
+        <br />
+        Je m'appelle Thor (--> Menteur)
+        <br />
+        J'aime le vert, les animaux et le calme
+    </h5>
+</div>
+
+<div style="width:500px; height:300px; overflow:auto; float: left; margin-bottom: 50px;">
+    <h2 style="text-decoration: underline">Sixième Exercice (Compréhension) :</h2>
+    <br>
+    <h4>
+        Tout le code est dans la classe Capture dans le dossier Controllers. Le candidat doit être capable de donner une bonne explication du code et de donner un exemple concret
+    </h4>
+</div>

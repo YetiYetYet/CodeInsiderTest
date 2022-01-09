@@ -1,0 +1,169 @@
+c:\users\stéphane de todaro\documents\visual studio 2013\Projects\BolloreTest\BolloreTest\bin\BolloreTest.dll.config
+c:\users\stéphane de todaro\documents\visual studio 2013\Projects\BolloreTest\BolloreTest\bin\BolloreTest.dll
+c:\users\stéphane de todaro\documents\visual studio 2013\Projects\BolloreTest\BolloreTest\bin\BolloreTest.pdb
+c:\users\stéphane de todaro\documents\visual studio 2013\Projects\BolloreTest\BolloreTest\bin\Antlr3.Runtime.dll
+c:\users\stéphane de todaro\documents\visual studio 2013\Projects\BolloreTest\BolloreTest\bin\Microsoft.Web.Infrastructure.dll
+c:\users\stéphane de todaro\documents\visual studio 2013\Projects\BolloreTest\BolloreTest\bin\Newtonsoft.Json.dll
+c:\users\stéphane de todaro\documents\visual studio 2013\Projects\BolloreTest\BolloreTest\bin\System.Web.Helpers.dll
+c:\users\stéphane de todaro\documents\visual studio 2013\Projects\BolloreTest\BolloreTest\bin\System.Web.Mvc.dll
+c:\users\stéphane de todaro\documents\visual studio 2013\Projects\BolloreTest\BolloreTest\bin\System.Web.Optimization.dll
+c:\users\stéphane de todaro\documents\visual studio 2013\Projects\BolloreTest\BolloreTest\bin\System.Web.Razor.dll
+c:\users\stéphane de todaro\documents\visual studio 2013\Projects\BolloreTest\BolloreTest\bin\System.Web.WebPages.Deployment.dll
+c:\users\stéphane de todaro\documents\visual studio 2013\Projects\BolloreTest\BolloreTest\bin\System.Web.WebPages.dll
+c:\users\stéphane de todaro\documents\visual studio 2013\Projects\BolloreTest\BolloreTest\bin\System.Web.WebPages.Razor.dll
+c:\users\stéphane de todaro\documents\visual studio 2013\Projects\BolloreTest\BolloreTest\bin\WebGrease.dll
+c:\users\stéphane de todaro\documents\visual studio 2013\Projects\BolloreTest\BolloreTest\bin\System.Web.Helpers.xml
+c:\users\stéphane de todaro\documents\visual studio 2013\Projects\BolloreTest\BolloreTest\bin\System.Web.Mvc.xml
+c:\users\stéphane de todaro\documents\visual studio 2013\Projects\BolloreTest\BolloreTest\bin\System.Web.Optimization.xml
+c:\users\stéphane de todaro\documents\visual studio 2013\Projects\BolloreTest\BolloreTest\bin\System.Web.Razor.xml
+c:\users\stéphane de todaro\documents\visual studio 2013\Projects\BolloreTest\BolloreTest\bin\System.Web.WebPages.xml
+c:\users\stéphane de todaro\documents\visual studio 2013\Projects\BolloreTest\BolloreTest\bin\System.Web.WebPages.Deployment.xml
+c:\users\stéphane de todaro\documents\visual studio 2013\Projects\BolloreTest\BolloreTest\bin\System.Web.WebPages.Razor.xml
+c:\users\stéphane de todaro\documents\visual studio 2013\Projects\BolloreTest\BolloreTest\bin\Antlr3.Runtime.pdb
+c:\users\stéphane de todaro\documents\visual studio 2013\Projects\BolloreTest\BolloreTest\bin\Newtonsoft.Json.xml
+c:\users\stéphane de todaro\documents\visual studio 2013\Projects\BolloreTest\BolloreTest\bin\fr\System.Web.Helpers.resources.dll
+c:\users\stéphane de todaro\documents\visual studio 2013\Projects\BolloreTest\BolloreTest\bin\fr\System.Web.Mvc.resources.dll
+c:\users\stéphane de todaro\documents\visual studio 2013\Projects\BolloreTest\BolloreTest\bin\fr\System.Web.Optimization.resources.dll
+c:\users\stéphane de todaro\documents\visual studio 2013\Projects\BolloreTest\BolloreTest\bin\fr\System.Web.Razor.resources.dll
+c:\users\stéphane de todaro\documents\visual studio 2013\Projects\BolloreTest\BolloreTest\bin\fr\System.Web.WebPages.resources.dll
+c:\users\stéphane de todaro\documents\visual studio 2013\Projects\BolloreTest\BolloreTest\bin\fr\System.Web.WebPages.Deployment.resources.dll
+c:\users\stéphane de todaro\documents\visual studio 2013\Projects\BolloreTest\BolloreTest\bin\fr\System.Web.WebPages.Razor.resources.dll
+c:\users\stéphane de todaro\documents\visual studio 2013\Projects\BolloreTest\BolloreTest\obj\Debug\BolloreTest.csprojResolveAssemblyReference.cache
+c:\users\stéphane de todaro\documents\visual studio 2013\Projects\BolloreTest\BolloreTest\obj\Debug\BolloreTest.dll
+c:\users\stéphane de todaro\documents\visual studio 2013\Projects\BolloreTest\BolloreTest\obj\Debug\BolloreTest.pdb
+C:\Users\Stéphane De Todaro\Documents\Visual Studio 2013\Projects\BolloreTest - Candidat\BolloreTest\bin\BolloreTest.dll.config
+C:\Users\Stéphane De Todaro\Documents\Visual Studio 2013\Projects\BolloreTest - Candidat\BolloreTest\bin\BolloreTest.dll
+C:\Users\Stéphane De Todaro\Documents\Visual Studio 2013\Projects\BolloreTest - Candidat\BolloreTest\bin\BolloreTest.pdb
+C:\Users\Stéphane De Todaro\Documents\Visual Studio 2013\Projects\BolloreTest - Candidat\BolloreTest\bin\Antlr3.Runtime.dll
+C:\Users\Stéphane De Todaro\Documents\Visual Studio 2013\Projects\BolloreTest - Candidat\BolloreTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Stéphane De Todaro\Documents\Visual Studio 2013\Projects\BolloreTest - Candidat\BolloreTest\bin\Newtonsoft.Json.dll
+C:\Users\Stéphane De Todaro\Documents\Visual Studio 2013\Projects\BolloreTest - Candidat\BolloreTest\bin\System.Web.Helpers.dll
+C:\Users\Stéphane De Todaro\Documents\Visual Studio 2013\Projects\BolloreTest - Candidat\BolloreTest\bin\System.Web.Mvc.dll
+C:\Users\Stéphane De Todaro\Documents\Visual Studio 2013\Projects\BolloreTest - Candidat\BolloreTest\bin\System.Web.Optimization.dll
+C:\Users\Stéphane De Todaro\Documents\Visual Studio 2013\Projects\BolloreTest - Candidat\BolloreTest\bin\System.Web.Razor.dll
+C:\Users\Stéphane De Todaro\Documents\Visual Studio 2013\Projects\BolloreTest - Candidat\BolloreTest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Stéphane De Todaro\Documents\Visual Studio 2013\Projects\BolloreTest - Candidat\BolloreTest\bin\System.Web.WebPages.dll
+C:\Users\Stéphane De Todaro\Documents\Visual Studio 2013\Projects\BolloreTest - Candidat\BolloreTest\bin\System.Web.WebPages.Razor.dll
+C:\Users\Stéphane De Todaro\Documents\Visual Studio 2013\Projects\BolloreTest - Candidat\BolloreTest\bin\WebGrease.dll
+C:\Users\Stéphane De Todaro\Documents\Visual Studio 2013\Projects\BolloreTest - Candidat\BolloreTest\bin\System.Web.Helpers.xml
+C:\Users\Stéphane De Todaro\Documents\Visual Studio 2013\Projects\BolloreTest - Candidat\BolloreTest\bin\System.Web.Mvc.xml
+C:\Users\Stéphane De Todaro\Documents\Visual Studio 2013\Projects\BolloreTest - Candidat\BolloreTest\bin\System.Web.Optimization.xml
+C:\Users\Stéphane De Todaro\Documents\Visual Studio 2013\Projects\BolloreTest - Candidat\BolloreTest\bin\System.Web.Razor.xml
+C:\Users\Stéphane De Todaro\Documents\Visual Studio 2013\Projects\BolloreTest - Candidat\BolloreTest\bin\System.Web.WebPages.xml
+C:\Users\Stéphane De Todaro\Documents\Visual Studio 2013\Projects\BolloreTest - Candidat\BolloreTest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Stéphane De Todaro\Documents\Visual Studio 2013\Projects\BolloreTest - Candidat\BolloreTest\bin\System.Web.WebPages.Razor.xml
+C:\Users\Stéphane De Todaro\Documents\Visual Studio 2013\Projects\BolloreTest - Candidat\BolloreTest\bin\Antlr3.Runtime.pdb
+C:\Users\Stéphane De Todaro\Documents\Visual Studio 2013\Projects\BolloreTest - Candidat\BolloreTest\bin\Newtonsoft.Json.xml
+C:\Users\Stéphane De Todaro\Documents\Visual Studio 2013\Projects\BolloreTest - Candidat\BolloreTest\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\Stéphane De Todaro\Documents\Visual Studio 2013\Projects\BolloreTest - Candidat\BolloreTest\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\Stéphane De Todaro\Documents\Visual Studio 2013\Projects\BolloreTest - Candidat\BolloreTest\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\Stéphane De Todaro\Documents\Visual Studio 2013\Projects\BolloreTest - Candidat\BolloreTest\bin\fr\System.Web.Razor.resources.dll
+C:\Users\Stéphane De Todaro\Documents\Visual Studio 2013\Projects\BolloreTest - Candidat\BolloreTest\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\Stéphane De Todaro\Documents\Visual Studio 2013\Projects\BolloreTest - Candidat\BolloreTest\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Stéphane De Todaro\Documents\Visual Studio 2013\Projects\BolloreTest - Candidat\BolloreTest\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\Stéphane De Todaro\Documents\Visual Studio 2013\Projects\BolloreTest - Candidat\BolloreTest\obj\Debug\BolloreTest.csprojResolveAssemblyReference.cache
+C:\Users\Stéphane De Todaro\Documents\Visual Studio 2013\Projects\BolloreTest - Candidat\BolloreTest\obj\Debug\BolloreTest.dll
+C:\Users\Stéphane De Todaro\Documents\Visual Studio 2013\Projects\BolloreTest - Candidat\BolloreTest\obj\Debug\BolloreTest.pdb
+C:\Users\Stéphane De Todaro\Desktop\BolloreTest - Candidat - Copie\BolloreTest\obj\Debug\BolloreTest.csprojResolveAssemblyReference.cache
+C:\Users\Stéphane De Todaro\Desktop\BolloreTest - Candidat - Copie\BolloreTest\obj\Debug\BolloreTest.dll
+C:\Users\Stéphane De Todaro\Desktop\BolloreTest - Candidat - Copie\BolloreTest\obj\Debug\BolloreTest.pdb
+C:\Users\Stéphane De Todaro\Desktop\BolloreTest - Candidat - Copie\BolloreTest\bin\BolloreTest.dll.config
+C:\Users\Stéphane De Todaro\Desktop\BolloreTest - Candidat - Copie\BolloreTest\bin\BolloreTest.dll
+C:\Users\Stéphane De Todaro\Desktop\BolloreTest - Candidat - Copie\BolloreTest\bin\BolloreTest.pdb
+C:\Users\Stéphane De Todaro\Desktop\BolloreTest - Candidat - Copie\BolloreTest\bin\Antlr3.Runtime.dll
+C:\Users\Stéphane De Todaro\Desktop\BolloreTest - Candidat - Copie\BolloreTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Stéphane De Todaro\Desktop\BolloreTest - Candidat - Copie\BolloreTest\bin\Newtonsoft.Json.dll
+C:\Users\Stéphane De Todaro\Desktop\BolloreTest - Candidat - Copie\BolloreTest\bin\System.Web.Helpers.dll
+C:\Users\Stéphane De Todaro\Desktop\BolloreTest - Candidat - Copie\BolloreTest\bin\System.Web.Mvc.dll
+C:\Users\Stéphane De Todaro\Desktop\BolloreTest - Candidat - Copie\BolloreTest\bin\System.Web.Optimization.dll
+C:\Users\Stéphane De Todaro\Desktop\BolloreTest - Candidat - Copie\BolloreTest\bin\System.Web.Razor.dll
+C:\Users\Stéphane De Todaro\Desktop\BolloreTest - Candidat - Copie\BolloreTest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Stéphane De Todaro\Desktop\BolloreTest - Candidat - Copie\BolloreTest\bin\System.Web.WebPages.dll
+C:\Users\Stéphane De Todaro\Desktop\BolloreTest - Candidat - Copie\BolloreTest\bin\System.Web.WebPages.Razor.dll
+C:\Users\Stéphane De Todaro\Desktop\BolloreTest - Candidat - Copie\BolloreTest\bin\WebGrease.dll
+C:\Users\Stéphane De Todaro\Desktop\BolloreTest - Candidat - Copie\BolloreTest\bin\System.Web.Helpers.xml
+C:\Users\Stéphane De Todaro\Desktop\BolloreTest - Candidat - Copie\BolloreTest\bin\System.Web.Mvc.xml
+C:\Users\Stéphane De Todaro\Desktop\BolloreTest - Candidat - Copie\BolloreTest\bin\System.Web.Optimization.xml
+C:\Users\Stéphane De Todaro\Desktop\BolloreTest - Candidat - Copie\BolloreTest\bin\System.Web.Razor.xml
+C:\Users\Stéphane De Todaro\Desktop\BolloreTest - Candidat - Copie\BolloreTest\bin\System.Web.WebPages.xml
+C:\Users\Stéphane De Todaro\Desktop\BolloreTest - Candidat - Copie\BolloreTest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Stéphane De Todaro\Desktop\BolloreTest - Candidat - Copie\BolloreTest\bin\System.Web.WebPages.Razor.xml
+C:\Users\Stéphane De Todaro\Desktop\BolloreTest - Candidat - Copie\BolloreTest\bin\Antlr3.Runtime.pdb
+C:\Users\Stéphane De Todaro\Desktop\BolloreTest - Candidat - Copie\BolloreTest\bin\Newtonsoft.Json.xml
+C:\Users\Stéphane De Todaro\Desktop\BolloreTest - Candidat - Copie\BolloreTest\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\Stéphane De Todaro\Desktop\BolloreTest - Candidat - Copie\BolloreTest\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\Stéphane De Todaro\Desktop\BolloreTest - Candidat - Copie\BolloreTest\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\Stéphane De Todaro\Desktop\BolloreTest - Candidat - Copie\BolloreTest\bin\fr\System.Web.Razor.resources.dll
+C:\Users\Stéphane De Todaro\Desktop\BolloreTest - Candidat - Copie\BolloreTest\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\Stéphane De Todaro\Desktop\BolloreTest - Candidat - Copie\BolloreTest\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Stéphane De Todaro\Desktop\BolloreTest - Candidat - Copie\BolloreTest\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\Entretien\Desktop\BolloreTest - Candidat\BolloreTest\bin\BolloreTest.dll.config
+C:\Users\Entretien\Desktop\BolloreTest - Candidat\BolloreTest\bin\BolloreTest.dll
+C:\Users\Entretien\Desktop\BolloreTest - Candidat\BolloreTest\bin\BolloreTest.pdb
+C:\Users\Entretien\Desktop\BolloreTest - Candidat\BolloreTest\bin\Antlr3.Runtime.dll
+C:\Users\Entretien\Desktop\BolloreTest - Candidat\BolloreTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Entretien\Desktop\BolloreTest - Candidat\BolloreTest\bin\Newtonsoft.Json.dll
+C:\Users\Entretien\Desktop\BolloreTest - Candidat\BolloreTest\bin\System.Web.Helpers.dll
+C:\Users\Entretien\Desktop\BolloreTest - Candidat\BolloreTest\bin\System.Web.Mvc.dll
+C:\Users\Entretien\Desktop\BolloreTest - Candidat\BolloreTest\bin\System.Web.Optimization.dll
+C:\Users\Entretien\Desktop\BolloreTest - Candidat\BolloreTest\bin\System.Web.Razor.dll
+C:\Users\Entretien\Desktop\BolloreTest - Candidat\BolloreTest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Entretien\Desktop\BolloreTest - Candidat\BolloreTest\bin\System.Web.WebPages.dll
+C:\Users\Entretien\Desktop\BolloreTest - Candidat\BolloreTest\bin\System.Web.WebPages.Razor.dll
+C:\Users\Entretien\Desktop\BolloreTest - Candidat\BolloreTest\bin\WebGrease.dll
+C:\Users\Entretien\Desktop\BolloreTest - Candidat\BolloreTest\bin\System.Web.Helpers.xml
+C:\Users\Entretien\Desktop\BolloreTest - Candidat\BolloreTest\bin\System.Web.Mvc.xml
+C:\Users\Entretien\Desktop\BolloreTest - Candidat\BolloreTest\bin\System.Web.Optimization.xml
+C:\Users\Entretien\Desktop\BolloreTest - Candidat\BolloreTest\bin\System.Web.Razor.xml
+C:\Users\Entretien\Desktop\BolloreTest - Candidat\BolloreTest\bin\System.Web.WebPages.xml
+C:\Users\Entretien\Desktop\BolloreTest - Candidat\BolloreTest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Entretien\Desktop\BolloreTest - Candidat\BolloreTest\bin\System.Web.WebPages.Razor.xml
+C:\Users\Entretien\Desktop\BolloreTest - Candidat\BolloreTest\bin\Antlr3.Runtime.pdb
+C:\Users\Entretien\Desktop\BolloreTest - Candidat\BolloreTest\bin\Newtonsoft.Json.xml
+C:\Users\Entretien\Desktop\BolloreTest - Candidat\BolloreTest\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\Entretien\Desktop\BolloreTest - Candidat\BolloreTest\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\Entretien\Desktop\BolloreTest - Candidat\BolloreTest\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\Entretien\Desktop\BolloreTest - Candidat\BolloreTest\bin\fr\System.Web.Razor.resources.dll
+C:\Users\Entretien\Desktop\BolloreTest - Candidat\BolloreTest\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\Entretien\Desktop\BolloreTest - Candidat\BolloreTest\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Entretien\Desktop\BolloreTest - Candidat\BolloreTest\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\Entretien\Desktop\BolloreTest - Candidat\BolloreTest\obj\Debug\BolloreTest.csproj.AssemblyReference.cache
+C:\Users\Entretien\Desktop\BolloreTest - Candidat\BolloreTest\obj\Debug\BolloreTest.csproj.CoreCompileInputs.cache
+C:\Users\Entretien\Desktop\BolloreTest - Candidat\BolloreTest\obj\Debug\BolloreTest.csproj.CopyComplete
+C:\Users\Entretien\Desktop\BolloreTest - Candidat\BolloreTest\obj\Debug\BolloreTest.dll
+C:\Users\Entretien\Desktop\BolloreTest - Candidat\BolloreTest\obj\Debug\BolloreTest.pdb
+C:\Users\yeti9\Desktop\Code Insider Test Technique\BolloreTest - Candidat\BolloreTest\bin\BolloreTest.dll.config
+C:\Users\yeti9\Desktop\Code Insider Test Technique\BolloreTest - Candidat\BolloreTest\bin\BolloreTest.dll
+C:\Users\yeti9\Desktop\Code Insider Test Technique\BolloreTest - Candidat\BolloreTest\bin\BolloreTest.pdb
+C:\Users\yeti9\Desktop\Code Insider Test Technique\BolloreTest - Candidat\BolloreTest\bin\Antlr3.Runtime.dll
+C:\Users\yeti9\Desktop\Code Insider Test Technique\BolloreTest - Candidat\BolloreTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\yeti9\Desktop\Code Insider Test Technique\BolloreTest - Candidat\BolloreTest\bin\Newtonsoft.Json.dll
+C:\Users\yeti9\Desktop\Code Insider Test Technique\BolloreTest - Candidat\BolloreTest\bin\System.Web.Helpers.dll
+C:\Users\yeti9\Desktop\Code Insider Test Technique\BolloreTest - Candidat\BolloreTest\bin\System.Web.Mvc.dll
+C:\Users\yeti9\Desktop\Code Insider Test Technique\BolloreTest - Candidat\BolloreTest\bin\System.Web.Optimization.dll
+C:\Users\yeti9\Desktop\Code Insider Test Technique\BolloreTest - Candidat\BolloreTest\bin\System.Web.Razor.dll
+C:\Users\yeti9\Desktop\Code Insider Test Technique\BolloreTest - Candidat\BolloreTest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\yeti9\Desktop\Code Insider Test Technique\BolloreTest - Candidat\BolloreTest\bin\System.Web.WebPages.dll
+C:\Users\yeti9\Desktop\Code Insider Test Technique\BolloreTest - Candidat\BolloreTest\bin\System.Web.WebPages.Razor.dll
+C:\Users\yeti9\Desktop\Code Insider Test Technique\BolloreTest - Candidat\BolloreTest\bin\WebGrease.dll
+C:\Users\yeti9\Desktop\Code Insider Test Technique\BolloreTest - Candidat\BolloreTest\bin\System.Web.Helpers.xml
+C:\Users\yeti9\Desktop\Code Insider Test Technique\BolloreTest - Candidat\BolloreTest\bin\System.Web.Mvc.xml
+C:\Users\yeti9\Desktop\Code Insider Test Technique\BolloreTest - Candidat\BolloreTest\bin\System.Web.Optimization.xml
+C:\Users\yeti9\Desktop\Code Insider Test Technique\BolloreTest - Candidat\BolloreTest\bin\System.Web.Razor.xml
+C:\Users\yeti9\Desktop\Code Insider Test Technique\BolloreTest - Candidat\BolloreTest\bin\System.Web.WebPages.xml
+C:\Users\yeti9\Desktop\Code Insider Test Technique\BolloreTest - Candidat\BolloreTest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\yeti9\Desktop\Code Insider Test Technique\BolloreTest - Candidat\BolloreTest\bin\System.Web.WebPages.Razor.xml
+C:\Users\yeti9\Desktop\Code Insider Test Technique\BolloreTest - Candidat\BolloreTest\bin\Antlr3.Runtime.pdb
+C:\Users\yeti9\Desktop\Code Insider Test Technique\BolloreTest - Candidat\BolloreTest\bin\Newtonsoft.Json.xml
+C:\Users\yeti9\Desktop\Code Insider Test Technique\BolloreTest - Candidat\BolloreTest\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\yeti9\Desktop\Code Insider Test Technique\BolloreTest - Candidat\BolloreTest\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\yeti9\Desktop\Code Insider Test Technique\BolloreTest - Candidat\BolloreTest\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\yeti9\Desktop\Code Insider Test Technique\BolloreTest - Candidat\BolloreTest\bin\fr\System.Web.Razor.resources.dll
+C:\Users\yeti9\Desktop\Code Insider Test Technique\BolloreTest - Candidat\BolloreTest\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\yeti9\Desktop\Code Insider Test Technique\BolloreTest - Candidat\BolloreTest\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\yeti9\Desktop\Code Insider Test Technique\BolloreTest - Candidat\BolloreTest\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\yeti9\Desktop\Code Insider Test Technique\BolloreTest - Candidat\BolloreTest\obj\Debug\BolloreTest.csprojAssemblyReference.cache
+C:\Users\yeti9\Desktop\Code Insider Test Technique\BolloreTest - Candidat\BolloreTest\obj\Debug\BolloreTest.csproj.CoreCompileInputs.cache
+C:\Users\yeti9\Desktop\Code Insider Test Technique\BolloreTest - Candidat\BolloreTest\obj\Debug\BolloreTest.csproj.CopyComplete
+C:\Users\yeti9\Desktop\Code Insider Test Technique\BolloreTest - Candidat\BolloreTest\obj\Debug\BolloreTest.dll
+C:\Users\yeti9\Desktop\Code Insider Test Technique\BolloreTest - Candidat\BolloreTest\obj\Debug\BolloreTest.pdb
