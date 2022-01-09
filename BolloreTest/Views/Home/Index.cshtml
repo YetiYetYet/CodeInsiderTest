@@ -38,8 +38,6 @@
             <br />
             @{
                 IEnumerable<string> result = Names.Where(name => name[0] == 'B').OrderBy(name => name);
-                    
-            
                 foreach (string Name in result)
                 {
                     <li>@Name</li>
